@@ -103,10 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-# Dream Bit
-dist/
-public/
-
 
 # Firebase cache
 .firebase/
